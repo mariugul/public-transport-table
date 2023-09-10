@@ -52,3 +52,15 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+*.qmlproject.qtds
+*.metainfo
+qmldir
+asset_imports.txt
+fonts.txt
+import_qml_plugins.h
+import_qml_components_plugins.h
+app_environment.h
+imports\CMakeLists.txt
+qmlmodules
+qmlcomponents
+main.qml
